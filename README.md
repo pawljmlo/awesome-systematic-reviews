@@ -2,26 +2,27 @@
 
 A curated list of awesome information regarding systematic reviews.
 
-## Organisations
-* Cochrane
-* JBI
-* Guidelines International Network
-* The Campbell Collaboration
+## Organisations & Associations
+* [Cochrane](https://www.cochrane.org/)
+* [JBI](https://jbi.global/)
+* [Guidelines International Network (GIN)](https://g-i-n.net/)
+* [The Campbell Collaboration](https://www.campbellcollaboration.org/)
 
 ## Handbooks
-* Cochrane Handbook
-* JBI Manual
+* [Cochrane Handbook](https://training.cochrane.org/handbook)
+* [JBI Manual](https://jbi-global-wiki.refined.site/space/MANUAL)
 
 ## Reporting checklists
-* PRISMA 2020
-    * ScR extentsion 
-* TRIPOD-SRMA
+* [Preferred Reporting Items for Systematic reviews and Meta-Analyses 2020 (PRISMA 2020)](http://prisma-statement.org/PRISMAStatement/)
+    * [Extension for Scoping Reviews](http://prisma-statement.org/Extensions/ScopingReviews)
+* [Tansparent Reporting of multivariable prediction models for Individual Prognosis or Diagnosis tailored for Systematic Reviews and Meta-Analyses (TRIPOD-SRMA)](https://www.tripod-statement.org/)
 
 For more checklists consult with [Enhancing the QUAlity and Transparency Of health Research (EQUATOR)](https://www.equator-network.org/).
 
 ## Credibility assessment tools
-* AMSTAR 2
-* ROBIS
+* [A MeaSurement Tool to Assess systematic Reviews 2 (AMSTAR 2)](https://amstar.ca/Amstar-2.php)
+* [Risk Of Bias In Systematic reviews (ROBIS)](https://www.bristol.ac.uk/population-health-sciences/projects/robis/robis-tool/)
+* [Quality Assessment of Systematic Reviews 2 (QASR-2)](https://osf.io/qxb2g)
 
 ## Meetings
 * Cochrane Colloquium
