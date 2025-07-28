@@ -5,6 +5,15 @@ A list of awesome information regarding evidence synthesis, systematic reviews, 
 The repository is devided in two parts. 
 The first one is devoted to [general information](#general) and the following covers [automation and artificial intelligence](#automation-and-artificial-intelligence) in evidence synthesis and guidline development.
 
+## How to cite?
+
+Jemioło, P. (2024). Awesome systematic reviews - A list of awesome information regarding evidence synthesis, systematic reviews, guidline development and decision-making. https://github.com/pawljmlo/awesome-systematic-reviews/ (Your access date).
+
+## How to get involved?
+
+Create an issue, provide details or simply contact us via e-mail to help in developing and moderating this resource:
+<details> pawljmlo@agh.edu.pl </details>
+
 ## General
 
 ### Organisations & Associations
@@ -62,6 +71,8 @@ Create an issue, provide details to a spreadsheet or simply contact us via e-mai
 <details> pawljmlo@agh.edu.pl </details>
 
 ### Datasets
+
+See above ([software](#software)) for details and how to help.
 
 | Name and link | Phase |
 | :--- | :--- |
