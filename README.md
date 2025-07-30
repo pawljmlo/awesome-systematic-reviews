@@ -82,3 +82,4 @@ See above ([software](#software)) for details and how to help.
 | [Liposome RBC scoping review screening](https://huggingface.co/datasets/UtopiansRareTruth/Liposome-RBC_Scoping_Review_Screening) | `ti/ab screening` |
 | [Therapeutic vaccines for follicular lymphoma: a systematic review](https://osf.io/kbzfw/) | `ti/ab screening`, <br> `ft screening` |
 | [DNA and RNA vaccines against tuberculosis: open data supplement for a scoping review](https://osf.io/x95hj/) | `ti/ab screening`, <br> `ft screening` |
+| [SYNERGY](https://github.com/asreview/synergy-dataset/) | `ft screening` |
